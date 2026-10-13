@@ -1,0 +1,11 @@
+{
+  "name": "cron-explainer",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Explain cron expressions in plain English and preview upcoming runs — 100% client-side.",
+  "type": "module",
+  "scripts": {
+    "dev": "python3 -m http.server 5174",
+    "test": "node test.js"
+  }
+}
